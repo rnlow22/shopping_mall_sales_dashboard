@@ -43,9 +43,9 @@ This dashboard consists of 3 parameters and 4 main analysis sections:
 ![image](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/63def021-41fb-4b26-a06b-27da0e0e2016)
 
 
-1. January 2023 witnessed consistent sales volumes compared to historical data across all Key Performance Indicators, resulting in a total of 12,000 sales, contributing to TL 2.6 million.
+1. January 2023 witnessed consistent sales volumes compared to historical data across all Key Performance Indicators, resulting in a total of 12k sales, contributing to TL 2.6 million.
 2. The average expenditure per customer in January 2023 was TL 667, with a total customer count of 3.9k.
 3. Female customers dominate the customer base, making up 60%. The age distribution is relatively balanced, with adults aged 25 to 64 comprising the majority, while customers over 65 represent only 9% of the total.
 4. The top three categories by sales count are Clothing (34%), Cosmetics (17%), and Food & Beverage (15%). However, the top three categories by sales revenue are Clothing (45%), Shoes (26%), and Technology (23%).
 5. Shoes and Technology achieve higher sales amounts despite not being in the top three for sales count, due to their high average sales amounts per item (TL 1,050 for Technology and TL 600 for Shoes).
-6. The top three shopping malls 
+6. The largest top three shopping malls that generating the most Sales Amount are Kanyon (TL 538k), Mall of Isbantul (TL 528k) and Metrocity (TL 424k).
