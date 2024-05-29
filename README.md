@@ -48,3 +48,17 @@ This dashboard consists of 3 parameters and 4 main analysis sections:
 4. The **top three categories by sales count** are **Clothing (34%)**, **Cosmetics (17%)**, and **Food & Beverage (15%)**. However, the **top three categories by sales amount** are **Clothing (45%)**, **Shoes (26%)**, and **Technology (23%)**.
 5. **Shoes** and **Technology** achieve higher sales amounts despite not being in the top three for sales count, due to their **high average sales amounts per item (TL 1,050 for Technology and TL 600 for Shoes)**.
 6. The **top three shopping malls** generating the **most sales revenue** in Isbantul are **Kanyon (TL 538k)**, **Mall of Isbantul (TL 528k)** and **Metrocity (TL 424k)**.
+
+### Key Dashboard Business Insights for January 2023:
+1. The total number of male customers who purchased Books have gradually reduced from 99 to 71 (28%), resulting a reduction in sales count by 27% and sales amount (TL) by 27%.
+<p float="middle">
+  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/4a2c784f-54ca-4b2b-9137-dae1f5c93e9c" width="500" />
+  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/d285eed7-3be0-48ca-9c48-c4335ec7e673" width="500" /> 
+  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/77c1c56c-ebfa-4607-b24e-6f9809107cab" width="500" />
+</p>
+
+![Screenshot 2024-05-29 at 10 20 37 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/4a2c784f-54ca-4b2b-9137-dae1f5c93e9c)
+![Screenshot 2024-05-29 at 10 19 52 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/d285eed7-3be0-48ca-9c48-c4335ec7e673)
+![Screenshot 2024-05-29 at 10 20 14 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/77c1c56c-ebfa-4607-b24e-6f9809107cab)
+
+3. ddd
