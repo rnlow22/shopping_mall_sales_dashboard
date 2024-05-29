@@ -26,11 +26,14 @@ This dashboard consists of 3 parameters and 4 main analysis sections:
 ![image](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/10938d84-4019-47a1-8a45-0f4b771f723b)
 
 ### Dashboard Functionality:
-1. This interactive dashboard allows for analysis filtering by clicking on any item within the chart.
+1. Analysis can be interactively filtered by clicking on any item within the chart.
 ![Screenshot 2024-05-29 at 6 57 55 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/37758361-d0a3-44c3-9e1a-32e50d6e87f1)
 
-2. Business users have the flexibility to choose the number of past periods for trend chart analysis.
+2. Business users can tailor the number of past periods for trend chart analysis according to their needs.
 ![Screenshot 2024-05-29 at 7 44 31 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/1d52ac11-1f54-4add-aba0-3ddaff3215f8)
 
-3. ss
+3. Various trend charts analyzing different Key Performance Indicators can be accessed by selecting from the dropdown menu.
+![Screenshot 2024-05-29 at 7 49 25 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/151c38ac-74a6-497e-a717-f000ba64c790)
 
+4. Month-on-Month Growth for Key Performance Indicators is displayed in a single view on the dashboard when selecting Date Type as "Monthly". This functionality extends to Day-on-Day, Week-on-Week, and Year-on-Year Growth as well.
+![Screenshot 2024-05-29 at 7 51 09 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/9b474a89-2e7c-4c78-91f6-803f6b757eab)
