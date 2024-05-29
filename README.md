@@ -26,5 +26,11 @@ This dashboard consists of 3 parameters and 4 main analysis sections:
 ![image](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/10938d84-4019-47a1-8a45-0f4b771f723b)
 
 ### Dashboard Functionality:
-This interactive dashboard allows for analysis filtering by clicking on any item within the chart.
+1. This interactive dashboard allows for analysis filtering by clicking on any item within the chart.
 ![Screenshot 2024-05-29 at 6 57 55 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/37758361-d0a3-44c3-9e1a-32e50d6e87f1)
+
+2. Business users have the flexibility to choose the number of past periods for trend chart analysis.
+![Screenshot 2024-05-29 at 7 44 31 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/1d52ac11-1f54-4add-aba0-3ddaff3215f8)
+
+3. ss
+
