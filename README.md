@@ -8,6 +8,7 @@
 **Packages:** numpy, pandas, datetime <br />
 **Data Source:** [Customer Shopping Dataset - Retail Sales Data](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset) <br />
 **Data Preprocesing ipynb File:** [Kaggle_Customer_Shopping_Dataset_Data_Cleaning.ipynb](https://github.com/rnlow22/shopping_mall_sales_dashboard/blob/main/Kaggle_Customer_Shopping_Dataset_Data_Cleaning.ipynb) <br />
+**Dashboard twbx File:** Only accessible during the demonstration meeting.
 
 ## Overview of the Dashboard:
 ![image](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/10938d84-4019-47a1-8a45-0f4b771f723b)
