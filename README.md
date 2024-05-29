@@ -1,7 +1,7 @@
 # Istanbul Shopping Malls Sales Analysis Dashboard
-- The objective of this project is to monitor key sales metrics such as sales volume and analyze customer data in order to drive better business decision such as
-  - Allows sales team and management team to track progress towards goals, identify top-performing products and recognize high-performing sales representatives
-  - Enhances the ability to tailor sales strategies to meet customer needs, improve customer satisfaction and increase loyalty
+- The objective of this project is to monitor key sales metrics such as sales volume and analyze customer data to inform better business decisions. Specifically, it aims to:
+  - Enable the sales and management teams to track progress towards goals, identify top-performing products, and recognize high-performing sales representatives
+  - Enhance the ability to tailor sales strategies to meet customer needs based on demographic data, thereby improving customer satisfaction and increasing loyalty
 
 ## References:
 **Python Version:** 3.10 <br />
@@ -50,15 +50,14 @@ This dashboard consists of 3 parameters and 4 main analysis sections:
 6. The **top three shopping malls** generating the **most sales revenue** in Isbantul are **Kanyon (TL 538k)**, **Mall of Isbantul (TL 528k)** and **Metrocity (TL 424k)**.
 
 ### Key Dashboard Business Insights for January 2023:
-1. The total number of male customers who purchased Books have gradually reduced from 99 to 71 (28%), resulting a reduction in sales count by 27% and sales amount (TL) by 27%.
-<p float="middle">
-  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/4a2c784f-54ca-4b2b-9137-dae1f5c93e9c" width="500" />
-  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/d285eed7-3be0-48ca-9c48-c4335ec7e673" width="500" /> 
-  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/77c1c56c-ebfa-4607-b24e-6f9809107cab" width="500" />
+1. The number of customers aged 55 to 64 purchasing Cosmetic products has gradually increased from 99 to 133 (34%) over the past 7 months, resulting in a 50% increase in both sales count and sales amount (TL).
+<p float="center">
+  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/b0563fe5-8b3f-410a-a815-c534a5e5a3c8" width="45%" />
+  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/3ade4b63-fcc0-4dfd-9ad0-2d92f0bcafa9" width="45%" /> 
+  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/6973b600-f550-4e63-a108-2d5af1279abf" width="45%" />
 </p>
 
-![Screenshot 2024-05-29 at 10 20 37 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/4a2c784f-54ca-4b2b-9137-dae1f5c93e9c)
-![Screenshot 2024-05-29 at 10 19 52 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/d285eed7-3be0-48ca-9c48-c4335ec7e673)
-![Screenshot 2024-05-29 at 10 20 14 PM](https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/77c1c56c-ebfa-4607-b24e-6f9809107cab)
+Recommended Business Decision: The marketing team should conduct targeted personalized campaigns for customers aged 55 to 64, specifically focusing on Cosmetic products.
 
-3. ddd
+2. 
+
