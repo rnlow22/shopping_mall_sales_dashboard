@@ -50,14 +50,23 @@ This dashboard consists of 3 parameters and 4 main analysis sections:
 6. The **top three shopping malls** generating the **most sales revenue** in Isbantul are **Kanyon (TL 538k)**, **Mall of Isbantul (TL 528k)** and **Metrocity (TL 424k)**.
 
 ### Key Dashboard Business Insights for January 2023:
-1. The number of customers aged 55 to 64 purchasing Cosmetic products has gradually increased from 99 to 133 (34%) over the past 7 months, resulting in a 50% increase in both sales count and sales amount (TL).
+1. The number of customers **aged 55 to 64** purchasing **Cosmetic products** has gradually increased from **99 to 133 (34%)** over the past 7 months, resulting in a **50% increase in both sales count and sales amount (TL)**.
 <p float="center">
   <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/b0563fe5-8b3f-410a-a815-c534a5e5a3c8" width="45%" />
   <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/3ade4b63-fcc0-4dfd-9ad0-2d92f0bcafa9" width="45%" /> 
   <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/6973b600-f550-4e63-a108-2d5af1279abf" width="45%" />
 </p>
 
-Recommended Business Decision: The marketing team should conduct targeted personalized campaigns for customers aged 55 to 64, specifically focusing on Cosmetic products.
+**Recommended Business Decision**: The marketing team should conduct targeted personalized campaigns for customers aged 55 to 64, specifically focusing on Cosmetic products. Before launching the campaigns, A/B testing should be conducted to evaluate their effectiveness in boosting Sales Revenue (RM).
 
-2. 
+2. There has been a **sudden drop** in the number of **young adult customers aged 25 to 34** purchasing **Technology products** in January 2023 compared to the past 7 months, **decreasing from 39 to 26 (33%)**. Consequently, there was a corresponding **24% decrease** in **both sales count and sales amount (TL)** in January 2023.
+<p float="center">
+  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/3dae8337-fd3c-4db7-b8ff-a9236ffe7f6a" width="45%" />
+  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/493632ef-c9d7-4979-b0aa-daf8f0a115bc" width="45%" /> 
+  <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/863a8c32-cdb7-4f6d-bb96-a5697158a2ba" width="45%" />
+</p>
 
+**Recommended Business Decision**: The product team should conduct an investigation into the root cause of the sudden drop in Technology product sales among young adult customers aged 25 to 34. Possible causes to investigate include:
+  1. Insufficient stocks in the shopping mall
+  2. Launch in virtual technology stores
+  3. Other potential factors
