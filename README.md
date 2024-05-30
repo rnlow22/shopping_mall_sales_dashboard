@@ -61,7 +61,7 @@ This dashboard consists of 3 parameters and 4 main analysis sections:
   <img src="https://github.com/rnlow22/shopping_mall_sales_dashboard/assets/30455582/6973b600-f550-4e63-a108-2d5af1279abf" width="45%" />
 </p>
 
-**Recommended Business Decision**: The marketing team should conduct targeted personalized campaigns for customers aged 55 to 64, specifically focusing on Cosmetic products. Before launching the campaigns, A/B testing should be conducted to evaluate their effectiveness in boosting Sales Revenue (RM).
+**Recommended Business Decision**: The marketing team should conduct targeted personalized campaigns for customers aged 55 to 64, specifically focusing on Cosmetic products. Before launching the campaigns, A/B testing should be conducted to evaluate their effectiveness in boosting Sales Revenue (TL).
 
 2. There has been a **sudden drop** in the number of **young adult customers aged 25 to 34** purchasing **Technology products** in January 2023 compared to the past 7 months, **decreasing from 39 to 26 (33%)**. Consequently, there was a corresponding **24% decrease** in **both sales count and sales amount (TL)** in January 2023.
 <p float="center">
